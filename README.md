@@ -1,2 +1,2 @@
-# p1_lab
+# Alternate Realities Project 1
  
